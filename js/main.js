@@ -4,7 +4,7 @@ let trucks = [
         rarity: 1,
         variant: 1,
         name: "Mail truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -12,7 +12,7 @@ let trucks = [
         rarity: 1,
         variant: 2,
         name: "Item truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -20,7 +20,7 @@ let trucks = [
         rarity: 1,
         variant: 3,
         name: "Mini truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -28,7 +28,7 @@ let trucks = [
         rarity: 1,
         variant: 4,
         name: "DHL truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -36,7 +36,7 @@ let trucks = [
         rarity: 1,
         variant: 5,
         name: "Rock truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -44,7 +44,7 @@ let trucks = [
         rarity: 1,
         variant: 6,
         name: "Party truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -52,7 +52,7 @@ let trucks = [
         rarity: 1,
         variant: 7,
         name: "Purple truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -60,7 +60,7 @@ let trucks = [
         rarity: 1,
         variant: 8,
         name: "Hell truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -68,7 +68,7 @@ let trucks = [
         rarity: 1,
         variant: 9,
         name: "Blue truck",
-        price: 1400,
+        price: 200,
         stock: 8
     },
     {
@@ -76,7 +76,7 @@ let trucks = [
         rarity: 2,
         variant: 1,
         name: "Simple truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -84,7 +84,7 @@ let trucks = [
         rarity: 2,
         variant: 2,
         name: "Compact truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -92,7 +92,7 @@ let trucks = [
         rarity: 2,
         variant: 3,
         name: "Charge truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -100,7 +100,7 @@ let trucks = [
         rarity: 2,
         variant: 4,
         name: "Furgon truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -108,7 +108,7 @@ let trucks = [
         rarity: 2,
         variant: 5,
         name: "Charge cover truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -116,7 +116,7 @@ let trucks = [
         rarity: 2,
         variant: 6,
         name: "Green furgon truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -124,7 +124,7 @@ let trucks = [
         rarity: 2,
         variant: 7,
         name: "Pink furgon truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -132,7 +132,7 @@ let trucks = [
         rarity: 2,
         variant: 8,
         name: "Red furgon truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -140,7 +140,7 @@ let trucks = [
         rarity: 2,
         variant: 9,
         name: "Yogu furgon truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -148,7 +148,7 @@ let trucks = [
         rarity: 2,
         variant: 10,
         name: "DHL furgon truck",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -156,7 +156,7 @@ let trucks = [
         rarity: 2,
         variant: 11,
         name: "Black furgon",
-        price: 1400,
+        price: 400,
         stock: 8
     },
     {
@@ -164,7 +164,7 @@ let trucks = [
         rarity: 3,
         variant: 1,
         name: "White van",
-        price: 1400,
+        price: 800,
         stock: 8
     },
     {
@@ -172,7 +172,7 @@ let trucks = [
         rarity: 3,
         variant: 2,
         name: "DHL van",
-        price: 1400,
+        price: 800,
         stock: 8
     },
     {
@@ -180,7 +180,7 @@ let trucks = [
         rarity: 3,
         variant: 3,
         name: "Yogu van",
-        price: 1400,
+        price: 800,
         stock: 8
     },
     {
@@ -188,7 +188,7 @@ let trucks = [
         rarity: 4,
         variant: 1,
         name: "Meat truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -196,7 +196,7 @@ let trucks = [
         rarity: 4,
         variant: 2,
         name: "Ground truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -204,7 +204,7 @@ let trucks = [
         rarity: 4,
         variant: 3,
         name: "Sprite truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -212,7 +212,7 @@ let trucks = [
         rarity: 4,
         variant: 4,
         name: "Coca cola truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },  
     {
@@ -220,7 +220,7 @@ let trucks = [
         rarity: 4,
         variant: 5,
         name: "Sushi truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -228,7 +228,7 @@ let trucks = [
         rarity: 4,
         variant: 5,
         name: "Pool truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -236,7 +236,7 @@ let trucks = [
         rarity: 4,
         variant: 7,
         name: "Star truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -244,7 +244,7 @@ let trucks = [
         rarity: 4,
         variant: 8,
         name: "DHL sub truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -252,7 +252,7 @@ let trucks = [
         rarity: 4,
         variant: 9,
         name: "Emergency truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },  
     {
@@ -260,7 +260,7 @@ let trucks = [
         rarity: 4,
         variant: 10,
         name: "Fruit truck",
-        price: 1400,
+        price: 1600,
         stock: 8
     },
     {
@@ -268,7 +268,7 @@ let trucks = [
         rarity: 5,
         variant: 1,
         name: "Black mega truck",
-        price: 1400,
+        price: 3200,
         stock: 8
     },
     {
@@ -276,7 +276,7 @@ let trucks = [
         rarity: 5,
         variant: 2,
         name: "Cyan mega truck",
-        price: 1400,
+        price: 3200,
         stock: 8
     },  
     {
@@ -284,7 +284,7 @@ let trucks = [
         rarity: 5,
         variant: 3,
         name: "Green mega truck",
-        price: 1400,
+        price: 3200,
         stock: 8
     },
 ];
@@ -437,7 +437,7 @@ function deployProducts() {
                     <img src="./assets/img/products/${rarity + '/' + variant + '.png'}" alt="${name}" class="w-100 bg__product" style="background-image: url(./assets/img/products/bg/${rarity}.png);">
                     <div class="card-body">
                         <h5 class="card-title">${name}</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <p class="card-text"></p>
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group" id="${id}">
                                 ${btn}
