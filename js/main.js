@@ -559,12 +559,17 @@ cartCount.addEventListener("click", function (e) {
                 CartCountCheck();
                 deployProductsInCart();
                 deployAmountCart();
-
-                Swal.fire(
-                    'Done!',
-                    'Thanks for your purchase.',
-                    'success'
-                );
+                Swal.fire({
+                    title: 'Done!',
+                    text: 'Thanks for your purchase.',
+                    icon: 'success',
+                    backdrop: `
+                    rgba(0,0,123,0.4)
+                    url("https://sweetalert2.github.io/images/nyan-cat.gif")
+                    left top
+                    no-repeat
+                  `
+                });
             }
             else return;
         });
