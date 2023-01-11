@@ -11,7 +11,7 @@
     <link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 <body>
-	<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark" data-bs-theme="dark">
+	<nav class="navbar navbar-expand-lg bg-body-tertiary bg-dark sticky-top" data-bs-theme="dark">
 		<div class="container-fluid">
 			<a class="navbar-brand" href="#">Truck store</a>
 			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
@@ -19,7 +19,6 @@
 			</button>
 			<div class="collapse navbar-collapse" id="navbarTogglerDemo02">
 				<button class="btn btn-secondary Reset"><i class="fas fa-power-off"></i> Reset</button>
-
 				<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
 					<li class="nav-item">
 						<a class="nav-link active" href="#" type="button" data-bs-toggle="offcanvas" data-bs-target="#ShopCart" aria-controls="ShopCart">
@@ -33,6 +32,11 @@
 	</nav>
 	<div class="album py-5 bg-light">
 	    <div class="container">
+			<div class="p-4 p-md-5 mb-4 rounded text-bg-dark banner-bg">
+				<div class="col-md-6 px-0">
+				  <h1 class="display-4 fst-italic banner-text-sahdow ">The best truck shop</h1>
+				</div>
+			</div>
 			<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 products" id="products"></div>
 	    </div>
 	</div>

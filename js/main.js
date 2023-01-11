@@ -395,7 +395,7 @@ function deployProductsInCart() {
             <div class="col-md-12 card bg-secondary mb-3 p-3">
                 <div class="row">
                     <div class="col-md-4">
-                        <img src="./assets/img/products/${rarity + '/' + variant + '.png'}" alt="${name}" class="w-100 card">                 
+                        <img src="./assets/img/products/${rarity + '/' + variant + '.png'}" alt="${name}" class="w-100 card bg__product rounded-0" style="background-image: url(./assets/img/products/bg/${rarity}.png);">                 
                     </div>
                     <div class="col-md-8">
                         <div class="p-2 w-100 text-center">
