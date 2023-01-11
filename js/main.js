@@ -226,7 +226,7 @@ let trucks = [
     {
         id: "31",
         rarity: 4,
-        variant: 5,
+        variant: 6,
         name: "Pool truck",
         price: 1600,
         stock: 10
