@@ -5,7 +5,7 @@ let trucks = [
         variant: 1,
         name: "Mail truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "6",
@@ -13,7 +13,7 @@ let trucks = [
         variant: 2,
         name: "Item truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "7",
@@ -21,7 +21,7 @@ let trucks = [
         variant: 3,
         name: "Mini truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "8",
@@ -29,7 +29,7 @@ let trucks = [
         variant: 4,
         name: "DHL truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "9",
@@ -37,7 +37,7 @@ let trucks = [
         variant: 5,
         name: "Rock truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "10",
@@ -45,7 +45,7 @@ let trucks = [
         variant: 6,
         name: "Party truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "11",
@@ -53,7 +53,7 @@ let trucks = [
         variant: 7,
         name: "Purple truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "12",
@@ -61,7 +61,7 @@ let trucks = [
         variant: 8,
         name: "Hell truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "13",
@@ -69,7 +69,7 @@ let trucks = [
         variant: 9,
         name: "Blue truck",
         price: 200,
-        stock: 8
+        stock: 10
     },
     {
         id: "14",
@@ -77,7 +77,7 @@ let trucks = [
         variant: 1,
         name: "Simple truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "15",
@@ -85,7 +85,7 @@ let trucks = [
         variant: 2,
         name: "Compact truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "16",
@@ -93,7 +93,7 @@ let trucks = [
         variant: 3,
         name: "Charge truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "17",
@@ -101,7 +101,7 @@ let trucks = [
         variant: 4,
         name: "Furgon truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "18",
@@ -109,7 +109,7 @@ let trucks = [
         variant: 5,
         name: "Charge cover truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "19",
@@ -117,7 +117,7 @@ let trucks = [
         variant: 6,
         name: "Green furgon truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "20",
@@ -125,7 +125,7 @@ let trucks = [
         variant: 7,
         name: "Pink furgon truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "21",
@@ -133,7 +133,7 @@ let trucks = [
         variant: 8,
         name: "Red furgon truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "22",
@@ -141,7 +141,7 @@ let trucks = [
         variant: 9,
         name: "Yogu furgon truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "23",
@@ -149,7 +149,7 @@ let trucks = [
         variant: 10,
         name: "DHL furgon truck",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "24",
@@ -157,7 +157,7 @@ let trucks = [
         variant: 11,
         name: "Black furgon",
         price: 400,
-        stock: 8
+        stock: 10
     },
     {
         id: "23",
@@ -165,7 +165,7 @@ let trucks = [
         variant: 1,
         name: "White van",
         price: 800,
-        stock: 8
+        stock: 10
     },
     {
         id: "24",
@@ -173,7 +173,7 @@ let trucks = [
         variant: 2,
         name: "DHL van",
         price: 800,
-        stock: 8
+        stock: 10
     },
     {
         id: "25",
@@ -181,7 +181,7 @@ let trucks = [
         variant: 3,
         name: "Yogu van",
         price: 800,
-        stock: 8
+        stock: 10
     },
     {
         id: "26",
@@ -189,7 +189,7 @@ let trucks = [
         variant: 1,
         name: "Meat truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "27",
@@ -197,7 +197,7 @@ let trucks = [
         variant: 2,
         name: "Ground truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "28",
@@ -205,7 +205,7 @@ let trucks = [
         variant: 3,
         name: "Sprite truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "29",
@@ -213,7 +213,7 @@ let trucks = [
         variant: 4,
         name: "Coca cola truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },  
     {
         id: "30",
@@ -221,7 +221,7 @@ let trucks = [
         variant: 5,
         name: "Sushi truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "31",
@@ -229,7 +229,7 @@ let trucks = [
         variant: 5,
         name: "Pool truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "32",
@@ -237,7 +237,7 @@ let trucks = [
         variant: 7,
         name: "Star truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "33",
@@ -245,7 +245,7 @@ let trucks = [
         variant: 8,
         name: "DHL sub truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "34",
@@ -253,7 +253,7 @@ let trucks = [
         variant: 9,
         name: "Emergency truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },  
     {
         id: "35",
@@ -261,7 +261,7 @@ let trucks = [
         variant: 10,
         name: "Fruit truck",
         price: 1600,
-        stock: 8
+        stock: 10
     },
     {
         id: "36",
@@ -269,7 +269,7 @@ let trucks = [
         variant: 1,
         name: "Black mega truck",
         price: 3200,
-        stock: 8
+        stock: 10
     },
     {
         id: "37",
@@ -277,7 +277,7 @@ let trucks = [
         variant: 2,
         name: "Cyan mega truck",
         price: 3200,
-        stock: 8
+        stock: 10
     },  
     {
         id: "38",
@@ -285,7 +285,7 @@ let trucks = [
         variant: 3,
         name: "Green mega truck",
         price: 3200,
-        stock: 8
+        stock: 10
     },
 ];
 
