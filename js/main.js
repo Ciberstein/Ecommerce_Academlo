@@ -441,14 +441,13 @@ function deployProducts() {
                         <div class="d-flex justify-content-between align-items-center">
                             <div class="btn-group" id="${id}">
                                 ${btn}
-                                <span class="btn btn-secondary disabled">${stock}</span>
+                                <span class="btn btn-secondary disabled">Stock: ${stock}</span>
                             </div>
                             <span><i class="fas fa-sack-dollar"></i> ${price}</span>
                         </div>
                     </div>
                 </div>
             </div>
-
         `;
     });
 
