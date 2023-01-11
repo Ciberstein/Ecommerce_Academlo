@@ -433,7 +433,7 @@ function deployProducts() {
 
         html += `
             <div class="col">
-                <div class="card shadow-sm">
+                <div class="card shadow-sm overflow-hidden">
                     <img src="./assets/img/products/${rarity + '/' + variant + '.png'}" alt="${name}" class="w-100 bg__product" style="background-image: url(./assets/img/products/bg/${rarity}.png);">
                     <div class="card-body">
                         <h5 class="card-title">${name}</h5>
