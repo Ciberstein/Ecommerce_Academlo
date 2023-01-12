@@ -316,7 +316,7 @@ function CartCountCheck() {
 
     if (!arrayCart.length) {
         cartCount.innerHTML = `
-            <h3>You cart is empty</h3>
+            <h3>Your cart is empty</h3>
         `;
 
         return;
