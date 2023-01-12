@@ -341,27 +341,6 @@ function findProductFunction(id) {
 }
 
 function removeProduct(id) {
-    /*
-    Swal.fire({
-        title: 'Are you sure?',
-        icon: 'warning',
-        showCancelButton: true,
-        confirmButtonColor: '#3085d6',
-        cancelButtonColor: '#d33',
-        confirmButtonText: 'Yes, delete it!'
-    
-    }).then((result) => {
-        if (result.isConfirmed) {
-
-            Swal.fire(
-              'Deleted!',
-              'Te item has been removed from cart.',
-              'success'
-            );
-            delete objCart[id];
-        }
-    });
-   */
     const res = confirm("Are you sure?");
     if (res) delete objCart[id];
 }
@@ -414,7 +393,6 @@ function deployProductsInCart() {
                     </div>
                 </div>
             </div>
-
         `;
     });
 
